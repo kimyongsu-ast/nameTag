@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<link rel="stylesheet" th:href="@{/index.css}" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/parsleyjs@2.9.2/dist/parsley.min.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<form id="forma" th:action="@{/result}" th:object="${userData}" method="post" data-parsley-validate>
+			
+			<h4>한글이름</h4>
+			<div class="input-group">
+			<input type="text" id="koName" name="koName" th:field="*{koName}" required
+			placeholder="ex)홍 길 동" data-parsley-required-message="필수 입력값 입니다.">
+			  <div class="input-icon">
+				<i class="fa fa-user"></i>
+			  </div>
+			</div>
+			
+			<h4>영문이름</h4>
+			<div class="input-group">
+			<input type="text" id="enName" name="enName" th:field="*{enName}" required
+				placeholder="ex)Gildong Hong" data-parsley-required-message="필수 입력값 입니다.">
+			  <div class="input-icon">
+				<i class="fa fa-user"></i>
+			  </div>
+			</div>
+			
+			<h4>부서명</h4>
+			<div class="input-group">
+			<input type="text" id="department" name="department" th:field="*{department}" required
+				placeholder="ex)DX사업본부" data-parsley-required-message="필수 입력값 입니다.">
+			  <div class="input-icon">
+				<i class="fa fa-user"></i>
+			  </div>
+			</div>
+			
+			<h4>파트명</h4>
+			<div class="input-group">
+			<input type="text" id="part" name="part" th:field="*{part}" required
+				placeholder="ex)해외/Ent사업팀" data-parsley-required-message="필수 입력값 입니다.">
+			  <div class="input-icon">
+				<i class="fa fa-user"></i>
+			  </div>
+			</div>
+			
+			<div class="row">
+				<div class="col-half">
+					<h4>직위</h4>
+				  <div class="input-group">
+					<input type="text" id="koPosition" name="koPosition" th:field="*{koPosition}" required
+					placeholder="ex)사원" data-parsley-required-message="필수 입력값 입니다.">
+					<div class="input-icon">
+					  <i class="fa fa-user"></i>
+					</div>
+				  </div>
+				</div>
+				<div class="col-half">
+				<h4>영문 직위</h4>
+				  <div class="input-group">
+					<input type="text" id="enPosition" name="enPosition" th:field="*{enPosition}" required
+					placeholder="ex)staff" data-parsley-required-message="필수 입력값 입니다.">
+					<div class="input-icon">
+					  <i class="fa fa-user"></i>
+					</div>
+				  </div>
+				</div>
+			</div>
+			<div class="row">
+				<h4>층수</h4>
+				<div class="col-half">
+				  <div class="input-group">
+					<select type="text" id="floor" name="floor" th:field="*{floor}">
+					  <option th:value="'5'">5층</option>
+					  <option th:value="'6'">6층</option>
+					  <option th:value="'7'">7층</option>
+					  <option th:value="'8'">8층</option>
+					</select>
+				  </div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="input-group">
+				<h4>휴대폰 번호</h4>
+				<input type="text" id="phone" name="phone" th:field="*{phone}" 
+				placeholder="ex)+82 10-0000-0000"
+				required data-parsley-pattern="^\+82\s10-\d{4}-\d{4}$"
+				data-parsley-error-message="+82 10-0000-0000 형식으로 입력해 주세요">
+				  <div class="input-icon">
+					<i class="fa fa-user"></i>
+				  </div>
+				</div>
+			</div>
+			
+			<h4>이메일</h4>
+			<div class="input-group">
+			<input type="text" id="email" name="email" th:field="*{email}" required
+				placeholder="ex)astkorea@astkorea.net" data-parsley-required-message="필수 입력값 입니다.">			  
+				<div class="input-icon">
+				<i class="fa fa-user"></i>
+			  </div>
+			</div>
+
+			<div class="form-row submit-btn">
+				<div class="input-data">
+					<div class="inner"></div>
+					<input type="submit" value="submit">
+				</div>
+			</div>
+		</form>
+	</div>
+</body>
+
+</html>

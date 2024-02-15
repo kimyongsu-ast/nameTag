@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div th:utext="${fileContent}"></div>
+	
+	<textarea th:value="${fileContent}" th:text="${fileContent}" rows="40"
+		cols="150" id="fileContent"></textarea>
+	
+	<!-- <button onclick="apiRequest()">하이웍스에 반영하기</button> -->
+	
+    <form id="myForm">
+        <input type="text" name="sign_no" value="new">
+        <input type="text" name="basic_flag" value="Y">
+        <input type="text" name="subject" value="2asdasdasz">
+        <textarea name="content" rows="40" cols="150" id="fileContent"></textarea>
+        <button type="button" onclick="apiRequest()">하이웍스에 반영하기</button>
+    </form>
+	
+	<script>
+	function apiRequest() {
+		
+        const form = document.getElementById("myForm");
+        const formData = new FormData(form);
+
+        fetch("https://mail.office.hiworks.com/astkorea.net/mail/webmail/comm_save_sign", {
+            method: "POST",
+            body: formData
+        })
+		
+
+/*   		content = document.getElementById("fileContent").value;
+		
+		client=new XMLHttpRequest(); 
+		client.open('POST', "https://mail.office.hiworks.com/astkorea.net/mail/webmail/comm_save_sign", true); 
+		client.setRequestHeader("Content-Type", "application/x-www-form-urlencoded"); 
+  		client.send("sign_no=new&basic_flag=Y&subject=20240215-1&content=" + encodeURIComponent(content));  
+ 		client.send("sign_no=new&basic_flag=Y&subject=20240215-1&content=123123");   */
+		
+	}
+	</script>
+</body>
+</html>

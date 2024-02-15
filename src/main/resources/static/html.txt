@@ -1,0 +1,195 @@
+<div class="se-contents"
+    style="box-sizing: content-box; font-family: &quot;맑은 고딕&quot;; font-size: 16px; line-height: 1.6;"
+    data-document-padding-top="18" data-document-padding-bottom="18" data-document-padding-left="23"
+    data-document-padding-right="23">
+    <div class="se-div"
+        style="box-sizing: content-box; font-family: &quot;맑은 고딕&quot;; font-size: 16px; line-height: 1.6;"
+        data-document-padding-bottom="18" data-document-padding-left="23" data-document-padding-right="23"
+        data-document-padding-top="18">
+        <div class="se-div"
+            style="box-sizing: content-box; font-family: &quot;맑은 고딕&quot;; font-size: 16px; line-height: 1.6;"
+            data-document-padding-bottom="18" data-document-padding-left="23" data-document-padding-right="23"
+            data-document-padding-top="18">
+            <table class="MsoTableGrid"
+                style="border-collapse: collapse; border-spacing: 0px; font-family: &quot;맑은 고딕&quot;; font-size: 10pt; text-align: justify; vertical-align: text-bottom; margin: 0px 0px 0.000133333px; width: 936px; border-color: rgb(128, 128, 128); border-style: none; border-width: 1px;"
+                cellpadding="0" data-template-id="1">
+                <colgroup>
+                    <col style="width: 652px;">
+                    <col style="width: 284px;">
+                </colgroup>
+                <tbody>
+                    <tr style="break-inside: avoid; height: 18.9333px;">
+                        <td style="vertical-align: top; padding: 0px 0px 22.6667px 18.9333px; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(215, 27, 24); border-style: none none none solid; border-width: 1px 1px 1px 2px;"
+                            colspan="2">
+                            <p class="MsoNormal"
+                                style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; color: rgb(0, 0, 0); text-align: left; line-height: 14pt; margin: 0px 0px 0.000133333px;">
+                                <span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 13pt; margin: 0px;">{{koName}}</span><br><span
+                                    style="color: windowtext; font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">{{enName}}</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; color: rgb(191, 191, 191); margin: 0px;">｜</span><span
+                                    style="color: windowtext; font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">&nbsp;{{department}}</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; color: rgb(191, 191, 191); margin: 0px;">&nbsp;｜</span><span
+                                    style="color: windowtext; font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">{{part}}</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; color: rgb(191, 191, 191); margin: 0px;">&nbsp;｜</span><span
+                                    style="color: windowtext; font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">{{koPosition}}&nbsp;</span><span
+                                    style="color: windowtext; font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">&nbsp;</span><span
+                                    style="color: windowtext; font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">{{enPosition}}</span>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr style="break-inside: avoid; height: 52.9333px;">
+                        <td style="vertical-align: top; padding: 0px 0px 7.53333px 18.9333px; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(215, 27, 24); border-style: none none none solid; border-width: 1px 1px 1px 2px;"
+                            colspan="2">
+                            <p class="MsoNormal"
+                                style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; color: rgb(0, 0, 0); text-align: left; line-height: 12pt; margin: 0px 0px 0.000133333px;">
+                                <span style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">경기도 수원시 영통구
+                                    광교중앙로</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">248</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">번길</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">&nbsp;95-3 AST</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">법조타워</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">&nbsp;{{floor}}</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;">층</span><br><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">5F, 95-3, Gwanggyojungang-ro 248beon-gil, Yeongtong-gu,
+                                    Suwon-si,</span><br><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">Gyeonggi-do, Rep. of KOREA (zip: 16512)</span></p>
+                        </td>
+                    </tr>
+                    <tr style="break-inside: avoid; height: 18.9333px;">
+                        <td style="vertical-align: top; padding: 0px 0px 0px 18.9333px; border-color: rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(215, 27, 24); border-style: none none none solid; border-width: 1px 1px 1px 2px;"
+                            colspan="2">
+                            <p class="MsoNormal"
+                                style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; color: rgb(0, 0, 0); text-align: left; line-height: 14pt; margin: 0px 0px 0.000133333px;">
+                                <span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">M {{phone}}</span><span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">&nbsp;&nbsp;&nbsp;</span><span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">T +82-70-4875-8097</span><span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">&nbsp;&nbsp;&nbsp;</span><span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 9pt; margin: 0px;"
+                                    lang="EN-US">E {{email}}</span></p>
+                        </td>
+                    </tr>
+                    <tr style="break-inside: avoid; height: 170.133px;">
+                        <td style="vertical-align: top; padding: 0px; border-color: rgb(0, 0, 0); border-style: none; border-width: 1px;"
+                            colspan="2">
+                            <p class="MsoNormal"
+                                style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; color: rgb(0, 0, 0); text-align: left; line-height: 10pt; margin: 0px 0px 0.000133333px;">
+                                <br><br><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;">상기
+                                    메일은 지정된 수신인만을 위한 것이며 부정경쟁 방지 및 영업비밀 보호에 관한 법률을 포함하여 관련 법령에 따라 보호의 대상이 되는
+                                    영업비밀</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">,&nbsp;</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;">산업기술
+                                    등을 포함하고 있을 수 있습니다</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">.&nbsp;</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;">본
+                                    문서에 포함된 정보의 전부 또는 일부를 무단으로 제</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">&nbsp;3</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;">자에게
+                                    공개</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">,&nbsp;</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;">배포</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">,&nbsp;</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;">복사
+                                    또는 사용하는 것은 엄격히 금지됩니다</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">.&nbsp;</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;">본
+                                    메일이 잘못 전송된 경우</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">,&nbsp;</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;">발신인에게
+                                    알려 주시고 즉시 삭제하여 주시기 바랍니다</span><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">.</span><br><br><span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">The above mail is for designated recipients only and may contain trade
+                                    secrets and industrial technologies that are subject to protection under relevant
+                                    laws and regulations, including the Unfair Competition Prevention and Trade Secret
+                                    Protection Act. Unauthorized disclosure, distribution, copying or use of all or part
+                                    of the information contained in this document to a third party is strictly
+                                    prohibited. If this email was sent in error, please notify the sender and delete the
+                                    email immediately.</span></p>
+                        </td>
+                    </tr>
+                    <tr style="break-inside: avoid; height: 18.9333px;">
+                        <td
+                            style="padding: 18.9333px 0px 0px; border-color: rgb(0, 0, 0); border-style: none; border-width: 1px;">
+                            <p class="MsoNormal"
+                                style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; color: rgb(0, 0, 0); text-align: left; line-height: 10pt; margin: 0px 0px 0.000133333px;">
+                                <span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 8pt; margin: 0px;">㈜에이에스티홀딩스&nbsp;</span><span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 8pt; margin: 0px;"
+                                    lang="EN-US">&nbsp;</span><span
+                                    style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 8pt; margin: 0px;"
+                                    lang="EN-US">AST Holdings Co., Ltd.</span><br><a
+                                    style="text-decoration: underline; color: rgb(22, 63, 199);"
+                                    data-href="http://www.astkorea.net"
+                                    data-hyperlink-id="se_fc9ad271-a889-44be-891d-da39b6765d37" target="_blank"
+                                    href="http://www.astkorea.net"><span
+                                        style="font-weight: bold; font-family: &quot;맑은 고딕&quot;; font-size: 8pt; margin: 0px;"
+                                        lang="EN-US">www.astkorea.net</span></a></p>
+                            <p class="MsoNormal"
+                                style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; color: rgb(0, 0, 0); text-align: right; line-height: 10pt; margin: 0px 0px 0.000133333px;">
+                                <span
+                                    style="font-family: &quot;맑은 고딕&quot;; font-size: 8pt; color: rgb(153, 153, 153); margin: 0px;"
+                                    lang="EN-US">&nbsp;</span></p>
+                        </td>
+                        <td
+                            style="vertical-align: bottom; padding: 0px; border-color: rgb(0, 0, 0); border-style: none; border-width: 1px;">
+                            <p class="MsoNormal"
+                                style="font-family: &quot;맑은 고딕&quot;; font-size: 10pt; color: rgb(0, 0, 0); text-align: right; line-height: 10pt; margin: 0px 0px 0.000133333px; position: relative;">
+                                <span class="se-drawing-object-wrapper se-image"
+                                    style="text-align: left; vertical-align: baseline; text-indent: 0px; margin-left: 88.6px; margin-top: 0px; left: 0px; display: inline-block; position: absolute; z-index: 251659264;"><img
+                                        style="visibility: visible; width: 156px; height: 32px;"
+                                        src="https://mail.office.hiworks.com/astkorea.net/mail/file_upload/sign_img/sign_9638_24149_1707199399"
+                                        width="156" height="32"></span></p>
+                            <table style="border-spacing: 0px; vertical-align: text-bottom;" cellpadding="0"
+                                data-template-id="0">
+                                <colgroup>
+                                    <col style="width: 789px;">
+                                    <col>
+                                </colgroup>
+                                <tbody>
+                                    <tr>
+                                        <td style="padding: 0px; width: 789px;">
+                                            <p style="line-height: 1px; margin: 0px;"><br></p>
+                                        </td>
+                                        <td style="padding: 0px;">
+                                            <p style="margin: 0px;"><br></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 0px; width: 789px;">
+                                            <p style="line-height: 1px; margin: 0px;"><br></p>
+                                        </td>
+                                        <td style="padding: 0px;">
+                                            <p style="line-height: 1px; margin: 0px;"><br></p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <p style="margin: 0px;"><br></p>
+                            <p style="line-height: 1px; margin: 0px;"><br></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
